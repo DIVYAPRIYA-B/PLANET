@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Stellar Explorer: A Planned Planet Journey
 
-# Run and deploy your AI Studio app
+Embark on a cinematic voyage through our solar system. This experience is designed like a small reel, taking you on a visual journey from the Sun to the furthest reaches of space.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/b5536d33-09c5-43a1-abfc-69d30419a87b
+- **Cinematic Storyline**: A scripted sequence that launches you from Earth into the vastness of the galaxy.
+- **Interactive Solar Map**: Navigate between planets with a fluid, high-fidelity 3D interface.
+- **Detailed Planetary Data**: Discover facts about each celestial body, including mass, orbital period, and composition.
+- **Atmospheric Visuals**: High-quality planet imagery paired with dynamic lighting and motion effects.
 
-## Run Locally
+## How to Play
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Launch**: Click the "START MISSION" button to begin the cinematic sequence.
+2. **Explore**: Switch to "SOLAR EXPLORER" mode to manually navigate the planets.
+3. **Navigate**: Use the planetary line map at the bottom or your mouse to zip between worlds.
